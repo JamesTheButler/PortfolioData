@@ -10,7 +10,7 @@
             "tag_name": "C++"
         },
         {
-            "tag_name": "Unity3D"
+            "tag_name": "Unity"
         },
         {
             "tag_name": "Physics Based Simulation"
@@ -19,11 +19,11 @@
     "image_uri": "media/projects/MasterThesis.gif",
     "links": [
         {
-            "link_name": "Unity3D Project",
+            "link_name": "Source Code (Unity Project)",
             "link_href": "https://github.com/JamesTheButler/MasterThesisPrototype"
         },
         {
-            "link_name": "Deformation Library",
+            "link_name": "Source Code (C++ Library)",
             "link_href": "https://github.com/JamesTheButler/PlasticDeformationDLL"
         }
     ]
