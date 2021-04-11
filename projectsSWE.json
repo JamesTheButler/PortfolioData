@@ -2,6 +2,7 @@
     "projects": [
         "MasterThesis",
         "ScanApp",
+        "PointDistribution",
         "CubeFusion",
         "TimePilot",
         "PhysicsBasedSim"
