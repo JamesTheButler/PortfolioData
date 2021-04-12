@@ -1,7 +1,7 @@
 {
     "project_id": "CubeFusion",
     "project_name": "Cube Fusion",
-    "project_description": "Cube Fusion is a cooperative puzzle game for two players. The main focus of this project was on the game and level design, which was motivated by the objective to teach teenagers the basic approach to progamming. The players have to discuss the solution to the level before programming their character's actions. The project  is made up of a server that communicates with two client apps via TCP/IP.",
+    "project_description": "Cube Fusion is a cooperative puzzle game for two players. The main focus of this project was on the game and level design, which was motivated by the objective to teach teenagers the basic approach to progamming. The players have to discuss their solutions to the level before programming their character's actions. The project  is made up of a server that communicates with two client mobile apps via TCP/IP.",
     "image_uri": "media/projects/CubeFusionNarrow.gif",
     "tags": [
         {
