@@ -13,11 +13,11 @@
     ],
     "links": [
         {
-            "link_name": "Server Source Code",
+            "link_name": "Source Code (Server)",
             "link_href": "https://github.com/JamesTheButler/Cube-Fusion-Server"
         },
         {
-            "link_name": "Client Source Code",
+            "link_name": "Source Code (Client)",
             "link_href": "https://github.com/JamesTheButler/Cube-Fusion-Client"
         }
     ]
