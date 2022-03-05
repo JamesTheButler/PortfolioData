@@ -2,7 +2,7 @@
     "project_id": "2DMapGeneration",
     "project_name": "2D, Tile-Based Map Generation",
     "project_description": "A 2D, tile-based map generator. Tiles are placed on the map depending on different rules. According to the resulting tile map, the correct sprites are cosen from the sprite-sheets.",
-    "image_uri": "media/projects/AnimationMedium.gif",
+    "image_uri": "media/projects/2DMapGeneration.gif",
     "tags": [
         {
             "tag_name": "C#"
