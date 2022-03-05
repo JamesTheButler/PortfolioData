@@ -1,5 +1,6 @@
 {
     "projects": [
+        "2DMapGeneration",
         "MasterThesis",
         "CubeFusion",
         "PointDistribution",
