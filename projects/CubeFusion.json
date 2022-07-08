@@ -13,12 +13,12 @@
     ],
     "links": [
         {
-            "link_name": "Source Code (Server)",
-            "link_href": "https://github.com/JamesTheButler/Cube-Fusion-Server"
+            "link_name": "Demo Page",
+            "link_href": "http://idxpo.se/2018/group12/cubefusion/"
         },
         {
-            "link_name": "Source Code (Client)",
-            "link_href": "https://github.com/JamesTheButler/Cube-Fusion-Client"
+            "link_name": "Source Code",
+            "link_href": "https://github.com/JamesTheButler/Cube-Fusion-Server"
         }
     ]
 }
