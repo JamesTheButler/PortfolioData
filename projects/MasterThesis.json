@@ -1,7 +1,7 @@
 {
     "project_id": "MasterThesis",
     "project_name": "Master Thesis: Real-time Plastic Deformation",
-    "project_description": "My master thesis revolved around creating a real-time deformation system for cars in video games. The biggest concern was creating visually plausible deformations within the time budget of a video game. A Unity3D project handles the run-time and uses a library to compute the deformations.",
+    "project_description": "My master's thesis focused on creating a real-time deformation system for cars in video games. The biggest concern was creating visually plausible deformations within the time budget of a video game. A Unity project handled the run-time, leveraging a C++ library for deformation computations.",
     "tags": [
         {
             "tag_name": "C#"

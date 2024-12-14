@@ -1,7 +1,7 @@
 {
     "project_id": "PointDistribution",
     "project_name": "Algorithms for scattering 2D Points",
-    "project_description": "3 Algorithms for scattering points in 2D. A fully random algorithm produces an uneven distribution. My custom algorithm produces a more even distribution with minor, local clumps. Poisson-Disc generates a completely even result.",
+    "project_description": "This project explores three 2D point-scattering algorithms: a fully random approach (uneven distribution), my custom algorithm (even distribution with minor clumps), and Poisson-Disc sampling (completely even distribution)",
     "image_uri": "media/projects/PointDistribution.gif",
     "tags": [
         {
