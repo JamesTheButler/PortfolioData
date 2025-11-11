@@ -1,0 +1,26 @@
+{
+    "project_id": "MedievalMerchant",
+    "project_name": "Medieval Merchant",
+    "project_description": "Medieval Merchant (working title) is my solo game project. You play as a traveling trader in medieval Europe, connecting isolated villages through commerce, fostering their growth—and building your own fortune along the way. The game will soon be released on Steam.",
+    "image_uri": "media/projects/MedievalMerchant.gif",
+    "tags": [
+        {
+            "tag_name": "C#"
+        },
+        {
+            "tag_name": "Unity"
+        },
+        {
+            "tag_name": "Strategy & Trade"
+        },
+        {
+            "tag_name": "Pixel Art"
+        }
+    ],
+    "links": [
+        {
+            "link_name": "Source Code",
+            "link_href": "https://github.com/JamesTheButler/MedievalMerchant"
+        }
+    ]
+}

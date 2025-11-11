@@ -1,0 +1,23 @@
+{
+    "project_id": "DiamondLab",
+    "project_name": "DiamondLab: Design Tool for Geometric Paintings",
+    "project_description": "Diamond Lab is a design tool that helps you generate diamond patterns. I use it to help me design abstract, geometric paintings by resolving the headaches of calculating dimensions, margins and the sizing of the frame.",
+    "image_uri": "media/projects/DiamondLab.png",
+    "tags": [
+        {
+            "tag_name": "C#"
+        },
+        {
+            "tag_name": "WPF"
+        },
+        {
+            "tag_name": "Computer Graphics"
+        }
+    ],
+    "links": [
+        {
+            "link_name": "Source Code",
+            "link_href": "https://github.com/JamesTheButler/DiamondLabSharp"
+        }
+    ]
+}
